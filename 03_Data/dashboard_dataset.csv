@@ -1,0 +1,6 @@
+member_id,first_name,last_name,scheme_name,total_contributions,contribution_status
+1,John,Mabena,"SecureFuture Pension",3000.00,"Active Contributor"
+2,Lerato,Nkosi,"SecureFuture Pension",1200.00,"Active Contributor"
+3,Sipho,Dlamini,"GrowthPlus Fund",1000.00,"Active Contributor"
+4,Thandi,Mokoena,"GrowthPlus Fund",0.00,"No Contributions"
+5,Peter,Khumalo,"EliteRetire Plan",1800.00,"Active Contributor"
